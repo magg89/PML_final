@@ -1,0 +1,16 @@
+base
+dplyr
+knitr
+rpart
+rpart.plot
+tibble
+bitops
+rattle
+e1071
+randomForest
+corrplot
+lattice
+ggplot2
+caret
+RColorBrewer
+gbm
